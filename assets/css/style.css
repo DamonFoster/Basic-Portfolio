@@ -1,0 +1,82 @@
+aside{
+	float: right;
+	margin: 0px;
+	background-color: white;
+}
+
+body{
+	background-color: #e8e6c5;
+}
+
+h1{
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 25px; 
+}
+
+h2{
+	color: #4aaaa5;
+	font-size: 25px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.port1{
+	position: fixed;
+	background-color: #4aaaa5;
+	color: white;
+	left: 200px;
+
+}
+
+.port2{
+	position: fixed;
+	background-color: #4aaaa5;
+	color: white;
+	left: 400px;
+}
+
+.port3{
+	position: fixed;
+	background-color: #4aaaa5;
+	color: white;
+	left: 600px;
+}
+
+.port4{
+	position: fixed;
+	background-color: #4aaaa5;
+	color: white;
+	left: 800px;
+}
+
+.port5{
+	position: fixed;
+	background-color: #4aaaa5;
+	color: white;
+	left: 1000px;
+}
+
+.pic1{
+	float: left;
+}
+
+.pic2{
+	float: left;
+}
+
+.pic3{
+	float: left;
+}
+
+.pic4{
+	float: left;
+}
+
+.pic5{
+	float: left;
+}
+.connect{
+		float: right;
+		background-color: white;
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
